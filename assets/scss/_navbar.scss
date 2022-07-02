@@ -1,0 +1,20 @@
+.navbar{
+    width: 100%;
+    background-color: rgb(186, 137, 101);
+        ul{
+            list-style: none;
+            li{
+                display: inline-block;
+                padding: 2px;
+                color: #e9d5c4;
+                a{
+                    text-decoration: none;
+                    color: #e9d5c4;
+                    font-size: 20px;}
+                    i{
+                        text-align: right;
+                    }
+                }
+            }
+        
+}
